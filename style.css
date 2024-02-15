@@ -1,0 +1,82 @@
+body{
+background-image:url("background");
+}
+h1{
+font-style:italic;
+font-family:cursive;
+margin:15px;
+text-align:center;
+text-shadow: -2px 2px black;
+letter-spacing: 2px;
+font-weight:bolder;
+color:gray;
+}
+h3{
+text-align:justify;
+font-family:inherit;
+margin:15px;
+letter-spacing: 2px;
+font-style:obilque;
+font-weight:bold;
+color:gray;
+font-size:30px;
+}
+
+.blue{
+  border-radius: 60px;
+    border-style:groove;
+  height: 400px;
+  width: 350px;
+  margin: 90px;
+  border-width:6px;
+  float:left;
+  
+  }
+  .red{
+   border-radius: 60px;
+    border-style:groove;
+  height: 400px;
+  width: 350px;
+  margin: 90px;
+  border-width:6px;
+  float:right;
+  }
+  h2{
+	  font-family:inherit;
+margin:15px;
+letter-spacing: 2px;
+font-style:obilque;
+font-weight:bold;
+color:gray;
+}
+p{
+font-family:inherit;
+margin:15px;
+letter-spacing: 2px;
+font-style:obilque;
+font-weight:bolder;
+color:gray;
+}
+body{
+	font-family: 'Protest Riot', sans-serif;
+}
+div{
+
+height:20px;
+width:1504px;
+}
+a:hover{
+color:yellow;
+
+}
+
+.active{
+color:red;
+text-decoration:underline; 
+}
+a {
+   padding: 10px;
+  text-decoration:none; 
+ color:lightblue;
+  
+}
